@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://tanka.pages.dev
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
@@ -35,8 +35,8 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🔮
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 😎
+        subtitle: Sic parvis magna.
         avatar:
             local: true
             src: img/29697608.png
