@@ -1,6 +1,6 @@
 ---
 title: About
-description: ordinary people
+description: Loading...
 date: '2021-04-14'
 aliases:
   - about-us
@@ -21,3 +21,4 @@ menu:
 Loading...
 
 Great things from small things come.
+
