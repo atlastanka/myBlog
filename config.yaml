@@ -43,6 +43,7 @@ params:
 
     article:
         math: false
+        toc: true
         license:
             enabled: true
             default: Licensed under CC BY-NC-SA 4.0
@@ -60,6 +61,28 @@ params:
             host:
             site:
             locale:
+                vssue:
+            platform:
+            owner:
+            repo:
+            clientId:
+            clientSecret:
+
+        # Waline client configuration see: https://waline.js.org/en/reference/client.html
+        waline:
+            serverURL:
+            lang:
+            visitor:
+            avatar:
+            emoji:
+                - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
+            requiredMeta:
+                - name
+                - email
+                - url
+            placeholder:
+            locale:
+                admin: Admin
 
     widgets:
         enabled:
@@ -123,6 +146,10 @@ related:
           weight: 200
 
 markup:
+    tableOfContents:
+        endLevel: 4
+        ordered: true
+        startLevel: 2
     highlight:
         noClasses: false
 
