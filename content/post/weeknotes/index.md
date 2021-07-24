@@ -38,7 +38,7 @@ Plan-Do-Check-Act
 
 ## One-to-Many Mapping in ML
 
-Change it a many-to-one mapping.
+Change it to a many-to-one mapping.
 Use the back propagated gradient to change the inputs.
 
 to be continued
